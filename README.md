@@ -1,5 +1,21 @@
 # eslint-config-airbnb-relaxed
 
+#### Get started
+
+Install the package.
+```
+# With yarn
+yarn add eslint-config-airbnb-relaxed
+
+# With npm
+npm i --save-dev eslint-config-airbnb-relaxed
+```
+
+Add `"extends": "airbnb-relaxed"` to your .eslintrc.
+
+
+#### Rules
+
 Make eslint-config-airbnb less strict.
 
 * **no-param-reassign** - For express / koa.
