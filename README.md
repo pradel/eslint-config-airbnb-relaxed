@@ -1,5 +1,7 @@
 # eslint-config-airbnb-relaxed
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pradel/eslint-config-airbnb-relaxed.svg)](https://greenkeeper.io/)
+
 #### Get started
 
 Install the package.
