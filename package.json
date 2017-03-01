@@ -1,0 +1,17 @@
+{
+  "name": "eslint-config-airbnb-relaxed",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pradel/eslint-config-airbnb-relaxed.git",
+  "author": "Pradel Léo <pradel.leo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-airbnb": "^14.1.0"
+  },
+  "peerDependencies": {
+    "eslint": "^3.16.1",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.0"
+  }
+}
